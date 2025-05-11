@@ -2,13 +2,13 @@
 
 Este projeto foi desenvolvido como parte de um desafio analítico com o objetivo de ajudar o **Senhor João**, dono da rede fictícia **Alura Store**, a decidir **qual loja vender** para iniciar um novo empreendimento.
 
-## 🧠 Desafio
+## Desafio
 
 Você foi contratado para analisar dados de **vendas, desempenho e avaliações** das **4 lojas da Alura Store**. A missão é identificar a loja **menos eficiente** e apresentar uma **recomendação clara e fundamentada** com base em dados reais.
 
 ---
 
-## 📌 Objetivos
+## Objetivos
 
 - Carregar e manipular dados em formato CSV usando `pandas`;
 - Visualizar dados com `matplotlib`;
